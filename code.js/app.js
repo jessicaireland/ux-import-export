@@ -1,4 +1,6 @@
-import { Person, render } from "./personalProfile.js"
+import {Person, render} from "./code.js./personalProfile.js"
+
+
 
 let people = [
     new Person("Bob", "bob-ross.jpg"),
